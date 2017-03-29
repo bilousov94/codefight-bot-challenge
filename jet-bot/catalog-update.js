@@ -62,12 +62,13 @@ function catalogUpdate(catalog, updates) {
             catalog[i].unshift(category);
             if(catalog[i][0] == "root"){
                 root = catalog[i];
+                catalog.splice(i, 1);
 
             }
 
         }
 
-        catalog.pop();
+        //  catalog.pop();
 
         for (var q = 0; q < catalog.length; q++){
             if(catalog[q][0].includes(' ')){
