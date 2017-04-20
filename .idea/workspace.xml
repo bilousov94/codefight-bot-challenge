@@ -34,14 +34,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="perfect-city.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="perfect-city.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/uber-bot/perfect-city.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8226087">
+            <state vertical-scroll-proportion="0.0">
               <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
               <folding>
                 <element signature="n#!!doc;n#perfectCity#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lucky_spot.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/uber-bot/lucky_spot.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.44869566">
+              <caret line="77" column="39" selection-start-line="77" selection-start-column="39" selection-end-line="77" selection-end-column="39" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -62,6 +72,7 @@
         <option value="$PROJECT_DIR$/jet-bot/catalog-update.js" />
         <option value="$PROJECT_DIR$/jet-bot/vendor.js" />
         <option value="$PROJECT_DIR$/uber-bot/perfect-city.js" />
+        <option value="$PROJECT_DIR$/uber-bot/lucky_spot.js" />
       </list>
     </option>
   </component>
@@ -291,11 +302,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/uber-bot/perfect-city.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8226087">
+        <state vertical-scroll-proportion="0.0">
           <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
           <folding>
             <element signature="n#!!doc;n#perfectCity#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uber-bot/lucky_spot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.44869566">
+          <caret line="77" column="39" selection-start-line="77" selection-start-column="39" selection-end-line="77" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
